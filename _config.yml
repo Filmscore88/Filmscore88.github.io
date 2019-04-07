@@ -1,11 +1,11 @@
 # Site settings
 author: Alberto Morales
-title: 
+title: Diving into the Developer world
 header-img: img/home-bg.png
 email: cmtmorales24@gmail.com
 copyright_name: Alberto Morales
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A gem from sractch
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Filmscore88
